@@ -69,6 +69,3 @@ Then, open **"Women's clothing review- NLP.ipynb"** in Jupyter Notebook and exec
 - Experiment with **LSTMs and Transformer models** for better NLP analysis.
 - Incorporate **aspect-based sentiment analysis** to determine feature-specific sentiments.
 - Improve model performance using **word embeddings (Word2Vec, GloVe, or BERT)**.
-
-## Contributors
-- **Anouska Priya**
